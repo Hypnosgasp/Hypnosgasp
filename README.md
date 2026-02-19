@@ -6,9 +6,9 @@
 - 👨🏻‍💻 Automation
 
 <div>
-  <a href="https://github.com/thsethub">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thsethub&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thsethub&layout=compact&langs_count=8&theme=nightowl"/>
+  <a href="https://github.com/hypnosgasp">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hypnosgasp&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hypnosgasp&layout=compact&langs_count=8&theme=nightowl"/>
 <div>
 
 ##
