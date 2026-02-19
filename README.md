@@ -5,13 +5,11 @@
 - 🛡️ Network Technician
 - 👨🏻‍💻 Automation
 
-<p align="center">
-  <img height="180em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hypnosgasp&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="180em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hypnosgasp&layout=compact&langs_count=8&theme=dark" />
-</p>
+<div>
+  <a href="https://github.com/thsethub">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thsethub&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thsethub&layout=compact&langs_count=8&theme=nightowl"/>
+<div>
 
 ##
 
