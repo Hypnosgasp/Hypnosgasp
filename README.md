@@ -6,9 +6,9 @@
 - 👨🏻‍💻 Automation
 
 <div>
-  <a href="https://github.com/Hypnosgasp">
+  <a href="https://github.com/thsethub">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hypnosgasp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em"src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hypnosgasp&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hypnosgasp&layout=compact&langs_count=8&theme=dark"/>
 <div>
 
 💻 Tecnologias & Linguagens
